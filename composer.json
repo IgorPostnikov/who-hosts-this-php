@@ -1,7 +1,7 @@
 {
-    "name": "whatcms/whatcms-php",
-    "description": "A simple PHP wrapper for WhatCMS API calls",
-    "homepage": "https://whatcms.org/",
+    "name": "whatcms/who-hosts-this-php",
+    "description": "A simple PHP wrapper for Who-Host-This API calls",
+    "homepage": "https://www.who-hosts-this.com/",
     "type": "library",
     "license": "MIT",
     "require": {
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "WhatCMS\\": "src/"
+            "WhoHostsThis\\": "src/"
         }
     }
 }
